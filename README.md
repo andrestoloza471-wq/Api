@@ -1,6 +1,6 @@
-# 🚀 Mi Primera API de Tareas (Todo-List)
+# 🚀 API 
 
-¡Hola! Este proyecto eta construyendo una **API** desde cero con **.NET 9**. Es una herramienta sencilla pero robusta para gestionar una lista de tareas pendientes.
+Este proyecto eta construyendo una **API** desde cero con **.NET 9**. Es una herramienta sencilla pero robusta para gestionar una lista de tareas pendientes.
 
 ## 🧐 ¿Qué hace este proyecto?
 Esta API permite organizar actividades de forma digital. A través de ella puedes:
@@ -25,4 +25,5 @@ Si quieres probar este proyecto en tu propia PC, sigue estos pasos:
     ```
 4.  **¡A explorar!:** Cuando veas que el servidor ha arrancado, abre tu navegador y ve a:
     [http://localhost:5146/swagger]
+
 
